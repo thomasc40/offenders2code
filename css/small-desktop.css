@@ -1,0 +1,307 @@
+
+
+/* small desktop */
+@media (min-width: 1025px) and (max-width: 1680px) {
+	.intro{
+		background: url(../img/mac-bg-1680px.png) no-repeat top center scroll ;
+	}
+	.container{
+		width: 83% !important;
+	}
+
+
+
+
+
+.brand-heading{
+	font-size: 60px;
+	position: inherit;
+	top: 0px;
+}
+
+	.intro-text-animation{
+	font-size: 29px;
+line-height: 58px;
+}
+
+
+	.press-enter-text {
+		font-family: "OCR A std";
+		color: #2d94c1;
+		font-size: 15px;
+	}
+	#typed-cursor {
+		display:none;
+		opacity: 1;
+		font-weight: 100;
+		-webkit-animation: blink 0.7s infinite;
+		-moz-animation: blink 0.7s infinite;
+		-ms-animation: blink 0.7s infinite;
+		-o-animation: blink 0.7s infinite;
+		animation: blink 0.7s infinite;
+		font-size: 10px;
+	}
+
+
+
+
+		.container{
+			width: 75% ;
+		}
+
+
+		body.intro{
+			margin: 0 auto;
+			background-color:white;
+			color: black;
+			size:30px;
+			width: 100%;
+			color:#000;
+		}
+
+
+		body .background-green {
+			background:#4FA335 !important; 
+			width:100% !important;
+			margin: 0 auto;
+			color:white;
+		}
+
+		body .background-orrange {
+			background:#f5741a !important; 
+			width:100% !important;
+			margin: 0 auto;
+			color:white;
+		}
+
+		body .background-blue {
+			background:#3292fd !important; 
+			width:100% !important;
+			margin: 0 auto;
+			color:white;
+		}
+
+		.brand-heading{
+			font-family:"OCR A std";
+			text-transform:none;
+			font-weight: normal;
+			text-align: inherit;
+			font-size: 85px;
+			display: inline;
+		}
+		.orange-2{
+			color:#e44d26;
+		}
+		.intro-text{
+			font-size: 30px;
+			font-family:"OCR A std";
+			color: white;
+		}
+		.intro-text-hidden {
+			display: none;
+			margin-top: 40px;
+		}
+		section .intro{
+			text-align: -webkit-center;
+		}
+		.press-enter-text{
+			margin-top: 0px;
+font-family: "OCR A std";
+color: #2D94C1;
+font-size: 26px;		
+		}
+		h1{
+			margin-top: 110px;
+		}
+		.light{font-weight: 600;
+		font-size: 60px;
+		margin-left: 360px;
+		font-family: "OCR A std";
+}
+
+
+
+
+
+		.intro{
+			height: 70%;
+		}
+		/*============  Typed cursor animation ==============*/
+		#typed-cursor {
+			opacity: 1;
+			font-weight: 100;
+			-webkit-animation: blink 0.7s infinite;
+			-moz-animation: blink 0.7s infinite;
+			-ms-animation: blink 0.7s infinite;
+			-o-animation: blink 0.7s infinite;
+			animation: blink 0.7s infinite;
+		}
+		@-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-webkit-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-moz-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-ms-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-o-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+
+
+
+
+		.press-enter-text {
+			opacity: 1;
+			font-weight: 100;
+			-webkit-animation: fadein 6s;
+			-moz-animation: fadein 6s;
+			-ms-animation: fadein 6s;
+			-o-animation: fadein 6s;
+			animation: fadein 6s ;
+		}
+		@-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+
+		@-webkit-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }	
+
+		}
+		@-moz-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-ms-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-o-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		.text-left{
+			text-align: left;
+		}
+		.text-right{
+			text-align: right;
+		}
+
+
+		.main-body{
+			width: 75%;
+			margin: 0 auto;
+			color: gray
+		}
+		p{
+			font-size: 23px;
+		}
+		.main-images{
+			margin-right: 160px;
+margin-top: 80px;
+margin-left: -40px;
+padding-bottom: 90px;
+width: :;
+		}
+		.h1-text{
+			float: left;
+		}
+
+		#bg-tom{
+			width: 100%;
+			height: 70%;
+			background: url(../img/tom-learning-.png) no-repeat bottom center 
+		}
+
+		.intro-body {
+			display: table-cell;
+			vertical-align: top;
+			padding-top: 250px;
+		}
+	
+
+
+		#mce-EMAIL {
+			width: 464px;
+font-size: 20px;
+border: none;
+padding: 10px;
+padding-top: 3px;
+
+		}
+
+		#mc-embedded-subscribe {
+			padding: 14px;
+			opacity: 0.8;
+			right: -428px;
+			filter:alpha(opacity=40); /* For IE8 and earlier */
+		}
+		.logos{
+
+		}
+		p{
+			color: black;
+		}
+
+
+		.contact-us{
+			font-size: 25px;
+line-height: 80px;
+text-align: left;
+}
+
+		}
+		.map{
+			border: 0;
+			width: 440px;
+			height: 230px;
+		}
+		
+		.fa-twitter{
+			color:#7EB3CD;
+		}
+		.fa-phone{
+			color:green;
+		}
+		.fa-envelope-o{
+			color:yellow;
+		}
+		.mail-chimp{
+			right: 85px;
+		}
+		.navbar-brand{
+			float: none;
+			margin: none;
+
+		}
+		 .display-map{
+        display: none;
+    }
+   .center-align-mobile  {
+    	text-align:  center;
+    }
+
+
+
+

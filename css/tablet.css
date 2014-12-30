@@ -1,0 +1,228 @@
+
+@media (min-width: 660px) and (max-width: 985px) {
+
+
+
+
+    .intro{
+        
+
+
+    }
+    .container{
+        width: 83% !important;
+     }
+section .intro-body {
+display: table-cell;
+vertical-align: top;
+padding-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+.main-images{
+    width: 400px;
+}
+.center-align-mobile
+    .main-images {
+       margin: 0 auto;
+float: none;
+width: 260px;
+padding-bottom: 0px;
+text-align: center;
+    }
+    p.press-enter-text{
+    margin-top: 0px;
+font-family: "OCR A std";
+color: #2D94C1;
+font-size: 20px;
+margin-bottom: 20px;
+}
+    
+
+    .brand-heading{
+    font-family: "OCR A std";
+text-transform: none;
+font-weight: normal;
+text-align: inherit;
+font-size: 40px;
+display: inline-block;
+line-height: 44px;
+top: -60px;
+    }
+
+    .intro-text-animation{
+        font-size: 20px;
+        line-height: 50px;
+    }
+
+
+
+p.intro-text {
+font-size: 15px;
+margin-top: 25px;
+}
+
+
+    .container{
+        width: 75% ;
+    }
+
+
+.col-md-6 p {
+font-size: 28px;
+}
+
+
+
+    .brand-heading{
+        font-family: "OCR A std";
+text-transform: none;
+font-weight: normal;
+text-align: inherit;
+font-size: 50px;
+display: inline;
+line-height: 60px;
+top: -145p
+
+}
+    }
+
+    .intro-text{
+        font-size: 30px;
+        font-family:"OCR A std";
+        color: white;
+    }
+    .intro-text-hidden {
+        display: none;
+        margin-top: 40px;
+    }
+    section .intro{
+        text-align: -webkit-center;
+    }
+
+    h1{
+        margin-top: 110px;
+        margin: 105px 0 5px;
+    }
+    .light{
+        font-weight: 600;
+        font-size: 60px;
+        margin-left: 360px;
+        font-family: "OCR A std";
+    }
+
+
+
+
+
+
+    .text-left{
+        text-align: left;
+    }
+    .text-right{
+        text-align: right;
+    }
+
+
+    .main-body{
+        width: 75%;
+        margin: 0 auto;
+        color: gray
+    }
+    p{
+        font-size: 30px;
+    }
+    .main-images{
+        margin-right: 160px;
+        margin-top: 80px;
+        margin-left: -40px;
+        padding-bottom:90px;
+    }
+    .h1-text{
+        float: left;
+    }
+
+    #bg-tom{
+        width: 100%;
+        height: 70%;
+        background: url(../img/tom-learning-.png) no-repeat bottom center 
+    }
+
+    .intro-body {
+        display: table-cell;
+        vertical-align: top;
+        padding-top: 220px;
+    }
+    .page-scroll{
+        margin-bottom: 40px;
+    }
+
+ 
+
+    
+
+    .email_signup {
+        width: 135%;
+        margin: 0 auto;
+    }
+
+    #mce-EMAIL {
+        width: 404px;
+        font-size: 20px;
+        border: none;
+        padding: 10px;
+        padding-top: 3px;
+  
+
+    }
+
+    #mc-embedded-subscribe {
+        padding: 14px;
+        opacity: 0.8;
+        right: -428px;
+        filter:alpha(opacity=40); /* For IE8 and earlier */
+    }
+    .logos{
+
+    }
+    p{
+        color: black;
+    }
+
+
+    .contact-us{
+        font-size: 30px;
+        line-height: 80px
+    }
+    .map{
+        border: 0;
+        width: 540px;
+        height: 230px;
+    }
+  
+    .fa-twitter{
+        color:#7EB3CD;
+    }
+    .fa-phone{
+        color:green;
+    }
+    .fa-envelope-o{
+        color:yellow;
+    }
+    .mail-chimp{
+        right: 85px;
+    }
+    .navbar{
+        display: none;
+    }
+    .display-map{
+        display: none;
+    }
+    .center-align-mobile {
+text-align: center;
+}
+}
+}
+

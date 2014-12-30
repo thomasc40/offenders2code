@@ -1,0 +1,187 @@
+
+/* Landscape phones and down */
+@media (min-width: 0px) and (max-width:660px){
+	.intro {
+		background:black no-repeat top center scroll ;
+	}
+
+	p.intro-text{
+		font-size: 15px;
+	}
+	
+	.center-align-mobile
+	.main-images {
+		margin: 0 auto ;
+		float: none ;
+		width: 260px ;
+		padding:30px 0;
+	}
+
+	.main-body{
+		width: 100% ;
+	}
+
+	#mc-embedded-subscribe{
+		width: 29% ;
+	}
+.col-md-6 h1 {
+margin-top: 10px;
+margin: 05px 0 5px;
+}
+	section .intro-body {
+		display: table-cell;
+		vertical-align: top;
+		padding-top: 58px;
+	}
+
+	.h1-text-left {
+		text-align: center ;
+		padding-top: 40px ;
+	}
+
+	.text-left {
+		text-align: center ;
+		font-size: 25px ;
+	}
+	.h1-text-right {
+		text-align: center ;
+		padding-top: 40px ;
+	}
+
+	.text-right {
+		text-align: center ;
+		font-size: 25px ;
+	}	
+	.brand-heading {
+		font-size: 28px ;
+	}
+	.box{
+		width:100%;
+		margin:0px;}
+		.box p{
+			color: crimson ;
+			font-family:nathan;
+		}
+		.logos{
+			padding:left ;
+		}
+			
+		.center-align-mobile p{
+			font-size: 20px;
+		}
+		h1{
+			margin: 0 0 24px;
+			text-align: center;
+		}
+		.container{
+			width: 100%;
+		}
+
+
+		body.intro{
+			margin: 0 auto;
+			background-color:white;
+			color: black;
+			size:30px;
+			width: 100%;
+			color:#000;
+		}
+
+
+
+		.orange-2{
+			color:#e44d26;
+		}
+		.intro-text{
+			font-size: 30px;
+			font-family:"OCR A std";
+			color: white;
+		}
+		.intro-text-hidden {
+			display: none;
+			margin-top: 40px;
+		}
+		section .intro{
+			text-align: -webkit-center;
+		}
+		.press-enter-text{
+	margin-top: -14px;
+font-family: "OCR A std";
+color: #2D94C1;
+font-size: 15px;
+}
+		}
+		h1{
+			margin-top: 0px;
+		}
+		.light{
+			font-weight: 600;
+			font-size: 60px;
+			margin-left: 360px;
+			font-family: "OCR A std";
+		}
+		.navbar{
+			display: none;
+		}
+	
+		.contact-non-mobile{
+			display:none;
+		}
+		.intro{
+			padding:0px 0;
+		}
+		.bg-tom{
+			display: none;
+			height:0px;
+		}
+		body .contact-us{
+			font-size: 16px;
+			line-height: 40px;
+		}
+
+		.center-align-mobile{
+			text-align: center;
+		}
+		.brand-heading span {
+			display: inline-block;
+
+		}
+		
+		.not-tablet{
+			display: none;
+		}
+		.brand-heading{
+			top: -39px;
+		}
+		.tablet-top{
+			top: 30px;
+		}
+.mc-field-group #mce-EMAIL {
+width: 300px;
+font-size: 20px;
+border: none;
+padding: 10px;
+padding-top: 3px;}
+
+
+.speech-marks {
+font-size: 26px;
+text-align: center;
+color: #FFF;
+padding: 28px;
+text-shadow: 3px 3px 3px #000;
+}
+body #bg-tom {
+width: 100%;
+height: 50%;
+background: url(../img/tom-learning-.png) no-repeat bottom center;
+}
+.logos{
+	padding:30px 0;
+}
+section .intro-body {
+display: table-cell;
+vertical-align: top;
+padding: 88px 0 30px 0;
+}
+

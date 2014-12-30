@@ -1,0 +1,189 @@
+/* Large desktop */
+@media (min-width: 1680px) and (max-width: 1898px) {
+	.intro{
+		background: url(../img/mac-bg-1200px.png) no-repeat top center scroll !important;
+	}
+	.container{
+		width:83% !important;
+	}
+
+		
+		/*============  Typed cursor animation ==============*/
+		#typed-cursor {
+			opacity: 1;
+			font-weight: 100;
+			-webkit-animation: blink 0.7s infinite;
+			-moz-animation: blink 0.7s infinite;
+			-ms-animation: blink 0.7s infinite;
+			-o-animation: blink 0.7s infinite;
+			animation: blink 0.7s infinite;
+		}
+		@-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-webkit-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-moz-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-ms-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-o-keyframes blink{
+			0% { opacity:1; }
+			50% { opacity:0; }
+			100% { opacity:1; }
+		}
+
+
+
+
+		.press-enter-text {
+			opacity: 1;
+			font-weight: 100;
+			-webkit-animation: fadein 6s;
+			-moz-animation: fadein 6s;
+			-ms-animation: fadein 6s;
+			-o-animation: fadein 6s;
+			animation: fadein 6s ;
+		}
+		@-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+
+		@-webkit-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }	
+
+		}
+		@-moz-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-ms-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-o-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		.text-left{
+			text-align: left;
+		}
+		.text-right{
+			text-align: right;
+		}
+
+
+		.main-body{
+			width: 75%;
+			margin: 0 auto;
+			color: gray
+		}
+		p{
+			font-size: 30px;
+		}
+		.main-images{
+			margin-right: 160px;
+			margin-top: 80px;
+			margin-left: -40px;
+			padding-bottom:90px;
+		}
+		.h1-text{
+			float: left;
+		}
+
+		#bg-tom{
+			width: 100%;
+			height: 70%;
+			background: url(../img/tom-learning-.png) no-repeat bottom center 
+		}
+
+		.intro-body {
+			display: table-cell;
+			vertical-align: top;
+			padding-top: 250px;
+		}
+		.page-scroll{
+			margin-bottom: 40px;
+		}
+
+		.email_signup_row{
+			padding: 15px 506px;
+
+		}
+
+		.email_signup {
+			width: 135%;
+			margin: 0 auto;
+		}
+
+		#mce-EMAIL {
+			width: 404px;
+			font-size: 20px;
+			border: none;
+			padding: 10px;
+			padding-top: 3px;
+			margin-left: -58px;
+
+		}
+
+		#mc-embedded-subscribe {
+			padding: 14px;
+			opacity: 0.8;
+			right: -428px;
+			filter:alpha(opacity=40); /* For IE8 and earlier */
+		}
+		.logos{
+
+		}
+		p{
+			color: black;
+		}
+
+
+		.contact-us{
+			font-size: 30px;
+			line-height: 80px
+		}
+		.map{
+			border: 0;
+			width: 540px;
+			height: 230px;
+		}
+		.yoomee-logo{
+			margin-left: 830px;
+		}
+		.fa-twitter{
+			color:#7EB3CD;
+		}
+		.fa-phone{
+			color:green;
+		}
+		.fa-envelope-o{
+			color:yellow;
+		}
+		.mail-chimp{
+			right: 85px;
+		}
+		.navbar-brand{
+			float: none;
+			margin: none;
+
+		}

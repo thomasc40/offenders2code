@@ -1,0 +1,143 @@
+	.fa-twitter{
+			color:#7EB3CD;
+		}
+		.fa-phone{
+			color:green;
+		}
+		.fa-envelope-o{
+			color:#000;
+		}
+		.logos{
+			text-align: center;
+		}
+		.contact-us{
+			text-align: center;
+		}
+	
+			.orange-2 {
+color: #E44D26;
+}
+.press-enter-text {
+		font-family: "OCR A std";
+		color: #2d94c1;
+}
+	
+	body .background-green {
+			background:#4fa335; 
+			width:100%;
+			margin: 0 auto;
+			color:white;
+		}
+
+		body .background-orrange {
+			background:#f5741a ; 
+			width:100%;
+			margin: 0 auto;
+			color:white;
+		}
+
+		body .background-blue {
+			background:#3292fd ; 
+			width:100%;
+			margin: 0 auto;
+			color:white;
+		}
+			.container{
+			width: 75% ;
+		}
+		
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+
+
+		.press-enter-text {
+			opacity: 1;
+			font-weight: 100;
+			-webkit-animation: fadein 6s;
+			-moz-animation: fadein 6s;
+			-ms-animation: fadein 6s;
+			-o-animation: fadein 6s;
+			animation: fadein 6s ;
+		}
+		@-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+
+		@-webkit-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }	
+
+		}
+		@-moz-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-ms-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		@-o-keyframes fadein{
+			0% { opacity:0; }
+			95% { opacity:0; }
+			100% { opacity:1; }
+		}
+		.contact-us ul{
+	list-style: none;
+}
+.speech-marks{
+	font-size: 45px;
+text-align: left;
+color: #FFF;
+text-shadow: 3px 3px 3px #000;
+
+}
+h2 .brand-heading{
+	position: fixed;
+	margin-top: 10px;
+}
+.mail-chimp-row{
+	text-align: center;
+	margin: 0 auto;
+	padding: none;}
+	.center-align-mobile .map {
+width: 100%;
+}
+
+#map-container {
+   position: relative;
+
+   height: 0;
+   overflow: hidden;
+   width: 100%;
+   margin:0 auto;
+
+}
+#map-container iframe {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100% !important;
+   height: 100% !important;
+}
+
+		#mc-embedded-subscribe {
+			margin-top: 10px;
+margin-bottom: 10px;}
+			.intro{
+				padding:0px;
+			}

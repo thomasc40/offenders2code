@@ -1,0 +1,229 @@
+
+@media (min-width: 986px) and (max-width: 1025px) {
+
+
+
+
+    .intro{
+        background: url(../img/mac-bg-1024px.png) no-repeat top center scroll ;
+       
+   
+    }
+    .container{
+        width: 83% !important;
+    }
+    body.intro-body {
+display: table-cell;
+vertical-align: top;
+padding-top: 220px;
+}
+
+h1{
+    text-align: center;
+}
+.main-images{
+    width: 400px;
+}
+.center-align-mobile .main-images {
+margin-right: 0px;
+margin-top: 80px;
+margin-left: 0px;
+}
+    p.press-enter-text{
+       margin-top: -35px;
+        font-family: "OCR A std";
+        color: #2D94C1;
+        font-size: 20px;
+    }
+
+    .brand-heading{
+       font-family: "OCR A std";
+text-transform: none;
+font-weight: normal;
+text-align: inherit;
+font-size: 57px;
+display: inline-block;
+line-height: 44px;
+top: -60px;
+    }
+
+    .intro-text-animation{
+        font-size: 20px;
+        line-height: 50px;
+    }
+
+
+
+    .brand-heading {
+        font-family: "OCR A std";
+        text-transform: none;
+        font-weight: normal;
+        text-align: inherit;
+        font-size: 60px;
+        display: inline;
+        line-height: 0px;
+    }
+
+
+
+    .container{
+        width: 75% ;
+    }
+
+
+.col-md-6 p {
+font-size: 28px;
+}
+
+
+
+    .brand-heading{
+font-family: "OCR A std";
+text-transform: none;
+font-weight: normal;
+text-align: inherit;
+font-size: 43px;
+display: inline;
+line-height: 71px;
+top: -90px;
+}
+    }
+
+    .intro-text{
+  font-size: 1px;
+font-family: "OCR A std";
+color: #FFF;
+margin-top: -42px;
+}
+
+    }
+    .intro-text-hidden {
+        display: none;
+        margin-top: 40px;
+    }
+    section .intro{
+        text-align: -webkit-center;
+    }
+
+    h1{
+       
+        margin: 0px 0 5px;
+    }
+    .light{
+        font-weight: 600;
+        font-size: 60px;
+        margin-left: 360px;
+        font-family: "OCR A std";
+    }
+
+
+
+
+
+
+    .text-left{
+        text-align: left;
+    }
+    .text-right{
+        text-align: right;
+    }
+
+
+    .main-body{
+        width: 75%;
+        margin: 0 auto;
+        color: gray
+    }
+    p{
+        font-size: 30px;
+    }
+    .main-images{
+        margin-right: 160px;
+        margin-top: 80px;
+        margin-left: -40px;
+        padding-bottom:90px;
+    }
+    .h1-text{
+        float: left;
+    }
+
+    #bg-tom{
+        width: 100%;
+        height: 70%;
+        background: url(../img/tom-learning-.png) no-repeat bottom center 
+    }
+
+    .intro-body {
+        display: table-cell;
+        vertical-align: top;
+        padding-top: 220px;
+    }
+    .page-scroll{
+        margin-bottom: 40px;
+    }
+
+    .
+
+    #mce-EMAIL {
+        width: 404px;
+        font-size: 20px;
+        border: none;
+        padding: 10px;
+        padding-top: 3px;
+        margin-left: -58px;
+
+    }
+
+    #mc-embedded-subscribe {
+        margin-top: 5px;
+        padding: 4px;
+        opacity: 0.8;
+        right: -428px;
+        filter:alpha(opacity=40); /* For IE8 and earlier */
+    }
+    .logos{
+
+    }
+    p{
+        color: black;
+    }
+
+
+    .contact-us{
+        font-size: 25px;
+        line-height: 80px
+    }
+
+
+    }
+  
+    .fa-twitter{
+        color:#7EB3CD;
+    }
+    .fa-phone{
+        color:green;
+    }
+    .fa-envelope-o{
+        color:yellow;
+    }
+    .mail-chimp{
+        right: 85px;
+    }
+    .navbar{
+        display: none;
+    }
+    .center-align-mobile{
+        text-align: center;
+    }
+     .display-map{
+        display: none;
+    }
+   .email-mailchimp{
+        width: 40%;
+height: 30px;
+    }
+    img{
+        width: 200px;
+    }
+}
+
